@@ -2,7 +2,7 @@
 
 Founder and educator building technology from Botswana, for the world.
 
-I am the co-founder of **Alistos Global**, which operates **SwiftRun** and **MUSA**, and the founder of **Bridge AI** and **God Code**.
+I am the co-founder of **Alistos Global**, which operates **SwiftRun**, **MUSA** and **God Code**, and the founder of **Bridge AI**.
 
 ## God Code
 
@@ -21,7 +21,7 @@ God Code's permission manifests work is indexed in the XERJ Corpus Hub, the open
 - **SwiftRun** (Alistos Global): runner and errand delivery for Botswana. Verified runners, live tracking, sender pays on delivery.
 - **MUSA** (Alistos Global): the African Opportunity Network, where people share gigs and opportunities. Protection of people first, always.
 - **Bridge AI**: an opportunity intelligence company for African agriculture. Verified buyers, measured fields, and an AI native workforce under human supervision. In farmer validation now.
-- **God Code**: the language above, and the community growing around it.
+- **God Code** (Alistos Global): the language above, and the community growing around it.
 
 ## Elsewhere
 
